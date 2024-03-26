@@ -1,0 +1,73 @@
+{
+  "name": "irruehle1algo",
+  "version": "1.0.0",
+  "description": "Facilitates accurate tracking and computation of averages, ensuring reliable results for statistical analyses.  ",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+
+
+    "eminahan6-stack": "^1.0.0",
+    "ellahaspel2.eth": "^1.0.0",
+    "irruehle1algo": "^1.0.0",
+
+
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "jest": "^27.4.7",
+    "babel-eslint": "^10.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohairruehle127/irruehle1algo.git"
+  },
+  "homepage": "https://github.com/mohairruehle127/irruehle1algo/blob/main/README.md",
+  "issues": "https://github.com/mohairruehle127/irruehle1algo/issues",
+  "keywords": [
+    "average",
+    "calculate",
+    "median",
+    "means",
+    "math"
+  ],
+  "author": "mohairruehle127",
+  "license": "MIT"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
